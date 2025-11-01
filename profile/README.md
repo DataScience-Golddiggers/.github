@@ -1,13 +1,13 @@
 # 👋 Welcome to DataScience-Golddiggers
 
-We are a multidisciplinary **Data Science team** specializing in AI, Data Science, Cybersecurity, and Electronics. Our team brings together diverse engineering backgrounds to tackle complex problems at the intersection of technology and innovation.
+We are a multidisciplinary **Data Science Team** specializing in AI, Data Science, Cybersecurity, and Electronics. Our team brings together diverse engineering backgrounds to tackle complex problems at the intersection of technology and innovation.
 
 ## 🎓 About Us
 
 We are a team of engineers with Bachelor of Science degrees in:
-- **Computational Systems Engineering**
-- **Computer Science and Automation**
 - **Electronics Engineering**
+- **Computer Science and Automation**
+- **Computational Systems Engineering**
 
 Our combined expertise enables us to approach challenges from multiple perspectives, delivering robust and innovative solutions across various domains.
 
@@ -31,12 +31,6 @@ Our combined expertise enables us to approach challenges from multiple perspecti
 - Threat detection and response systems
 - Security data analytics
 
-### ⚡ Electronics & Systems
-- Embedded systems development
-- Hardware-software integration
-- IoT solutions
-- System automation and control
-
 ## 🚀 Featured Projects
 
 ### [Dora the Data Explorer](https://github.com/DataScience-Golddiggers/Dora-the-Data-Explorer)
@@ -46,14 +40,11 @@ A comprehensive machine learning pipeline for classifying cybersecurity incident
 - Complete data preprocessing pipeline with advanced feature engineering
 - Multiple ML models (XGBoost, Random Forest, MLP Neural Networks)
 - MITRE ATT&CK technique integration
-- Bayesian smoothing for risk assessment
-- Production-ready inference system
+- Production-ready inference system (in dev...)
 
 **Technologies:** Python, XGBoost, PyTorch, scikit-learn, pandas, MITRE ATT&CK
 
 ## 🛠️ Technologies We Use
-
-**Languages:** Python, SQL, MATLAB, C/C++, JavaScript
 
 **ML/AI Frameworks:** PyTorch, TensorFlow, scikit-learn, XGBoost
 
@@ -63,7 +54,6 @@ A comprehensive machine learning pipeline for classifying cybersecurity incident
 
 **Cybersecurity:** MITRE ATT&CK, Security Analytics Tools
 
-**Electronics:** Arduino, Raspberry Pi, Embedded Systems
 
 ## 🌟 What We Do
 
