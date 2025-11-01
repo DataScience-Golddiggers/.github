@@ -5,9 +5,9 @@ We are a multidisciplinary **Data Science Team** specializing in AI, Data Scienc
 ## 🎓 About Us
 
 We are a team of engineers with Bachelor of Science degrees in:
-- **Electronics Engineering**
+- **Electronics**
 - **Computer Science and Automation**
-- **Computational Systems Engineering**
+- **Computational Systems**
 
 Our combined expertise enables us to approach challenges from multiple perspectives, delivering robust and innovative solutions across various domains.
 
