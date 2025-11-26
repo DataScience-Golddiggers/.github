@@ -16,6 +16,7 @@ Our combined expertise enables us to approach challenges from multiple perspecti
 ### 🤖 Artificial Intelligence & Machine Learning
 - Advanced ML algorithms (XGBoost, Random Forest, Neural Networks)
 - Deep Learning with PyTorch
+- RASA-Based Chatbots
 - Feature engineering and model optimization
 - Predictive analytics and classification systems
 
