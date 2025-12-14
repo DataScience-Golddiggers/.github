@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
@@ -19,7 +19,8 @@
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
-
+<div align="center">
+  
 ### ⛏️ *Mining data for golden insights* ✨
 
 **Elite Multidisciplinary Data Science Team** | AI · Data Science · Cybersecurity · Electronics
