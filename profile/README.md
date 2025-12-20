@@ -33,7 +33,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DataScience-Golddiggers?style=social)](https://github.com/DataScience-Golddiggers)
 [![GitHub stars](https://img.shields.io/github/stars/DataScience-Golddiggers?style=social)](https://github.com/DataScience-Golddiggers)
-
+![GitHub views](https://komarev.com/ghpvc/?username=DataScience-Golddiggers&style=flat-square&color=blue)
 </div>
 
 ---
@@ -411,6 +411,8 @@ We're passionate about learning and collaborating on interesting projects! Wheth
 
 ### 📈 Statistics
 
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=DataScience-Golddiggers&type=languages&theme=github)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=DataScience-Golddiggers&type=contributions&theme=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=DataScience-Golddiggers&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
